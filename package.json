@@ -26,6 +26,6 @@
     "url": "https://github.com/thlorenz/ah-deep-clone/blob/master/LICENSE"
   },
   "engine": {
-    "node": ">=0.10"
+    "node": ">=6"
   }
 }
