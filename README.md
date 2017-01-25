@@ -13,18 +13,6 @@ const copy = deepClone(activities)
 
 ## API
 
-### `deepClone`
-
-Clones the activities passed to it.
-
-Any modifications applied to the original won't be visible in the copy.
-This includes additions/removals to the original Map
- 
-#### arguments
-
-- `@param {Map.<Number, Object>}` activities to be cloned
-- `@return {Map.<Number, Object>}` cloned activities
-
 ## License
 
 MIT
