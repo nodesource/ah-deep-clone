@@ -1,4 +1,4 @@
-# ah-deep-clone [![build status](https://secure.travis-ci.org/thlorenz/ah-deep-clone.png)](http://travis-ci.org/thlorenz/ah-deep-clone)
+# ah-deep-clone [![build status](https://secure.travis-ci.org/nodesource/ah-deep-clone.png)](http://travis-ci.org/nodesource/ah-deep-clone)
 
 Creates a deep clone of a [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) of collected async hooks activities.
 
